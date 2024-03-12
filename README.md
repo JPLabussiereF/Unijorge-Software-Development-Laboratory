@@ -17,7 +17,8 @@ Crie uma plataforma de desenvolvimento web, sobre o quarto ODS da ONU (PT/BR)
 </h3>
 
 The Fourth United Nations Sustainable Development Goal (SDG) is "Quality Education." It aims to ensure inclusive, equitable, and quality education for all, promoting lifelong learning opportunities for everyone. This involves universal access to quality pre-primary, primary, and secondary education, as well as expanding access to higher education and vocational training. The goal also emphasizes the need to empower teachers, improve educational facilities, and promote safe and inclusive learning environments. Achieving quality education is crucial for human development, poverty reduction, and building more sustainable societies.
-<img src="utils\SDG4tachometerBottomless.png" min-width="390px" max-width="390px" width="390px" align="right" alt="Fourth United Nations Sustainable Development Goal">
+
+<img src="utils\SDG4tachometerBottomless.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Fourth United Nations Sustainable Development Goal">
 
 **Topics:**
 
