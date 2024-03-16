@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educação de Qualidade</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+
+        nav {
+            width: 250px;
+            background-color: #444;
+            color: #fff;
+            height: calc(100vh - 70px); /* altura da tela menos altura do header e footer */
+            position: fixed;
+            top: 90px; /* altura do header */
+            left: 0;
+            overflow-y: auto;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            padding: 10px;
+            border-bottom: 1px solid #666;
+        }
+
+        nav ul li:last-child {
+            border-bottom: none;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        main {
+            margin-left: 250px; /* largura do menu */
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        #logo {
+            padding-left: 700px;
+        }
+
+        .container {
+        overflow: hidden; /* Limpa o float interno */
+        }
+
+        .image {
+            float: left; /* Alinha a imagem à esquerda */
+            margin-right: 10px; /* Margem à direita para separar a imagem do texto */
+        }
+
+        .text {
+            overflow: hidden; /* Limpa o float do texto */
+        }
+    </style>
+</head>
+<body>
+    <header>   
+        <figure id="logo">
+            <div class="container">
+                <img src="https://www.nossosobjetivos.com.br/wp-content/themes/ods/_assets/images/icon/4.png" width="45" alt = "Logotipo da CloneWik" class="image"/>  
+                <div class="text">
+                <figcaption><b>Educação de Qualidade</b></figcaption>
+                <figcaption>4° ODS</figcaption>
+            </div>
+        </div>
+        </figure>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Página Inicial</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Conteúdo Principal</h2>
+        <p>Colocar o conteúdo principal do site</p>
+    </main>
+    <footer>
+        <p>Rodapé </p>
+    </footer>
+</body>
+</html>
