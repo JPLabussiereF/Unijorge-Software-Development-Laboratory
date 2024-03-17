@@ -81,6 +81,12 @@ O Quarto Objetivo de Desenvolvimento Sustentável (ODS) da ONU é "Educação de
 
 ### Collaborators 📊
 
+- **Autores - Alunos**
+
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/153572623?v=4" width=115><br><sub>João Pedro Labussiere</sub>](https://github.com/JPLabussiereF) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/96660702?v=4" width=115><br><sub>Igor Oliveira</sub>](https://github.com/reedbluue) |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/152229567?v=4" width=115><br><sub>Luan Gabriel Melo</sub>](https://github.com/LuanGabrielMelo) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/129229862?v=4" width=115><br><sub>Maike Mangabeira</sub>](https://github.com/PinguimBlack) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127335867?v=4" width=115><br><sub>Elienton Fell</sub>](https://github.com/ElielFell) |
 | :---: | :---: |  :---: |  :---: | :---: | 
 
+- **Docente da Disciplina**
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/10999519?v=4" width=115><br><sub>Igor Gonzalez Pimenta </sub>](https://github.com/igorgonzal) |
+| :---: |
