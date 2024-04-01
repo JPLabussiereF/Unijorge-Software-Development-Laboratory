@@ -1,0 +1,16 @@
+.apresentacao--img__1 img{
+    width: 488px;
+    height: 550px;
+    border-radius: 20%;
+    border: 4.5px solid;
+    border-color: var(--cor--terciaria);
+}
+
+.apresentacao--img__2 img{
+    width: 488px;
+}
+
+.apresentacao--img__3 img{
+    width: 588px;
+    height: 650px;
+}
