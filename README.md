@@ -40,7 +40,7 @@ The Fourth United Nations Sustainable Development Goal (SDG) is "Quality Educati
 <h3>
 <span> <strong>Quarto ODS da ONU - Educação de Qualidade (PT/BR)</strong></span>
     <a href="https://www.unijorge.edu.br/">
-     <img align="center" width="40px" src="utils\FourthUNSDGBottomless.png"></a>
+     <img align="center" width="40px" src="assets\image\FourthUNSDGBottomless.png"></a>
 </h3>
 
 O Quarto Objetivo de Desenvolvimento Sustentável (ODS) da ONU é "Educação de Qualidade". Ele busca garantir uma educação inclusiva, equitativa e de qualidade, promovendo oportunidades de aprendizagem ao longo da vida para todos. Isso envolve acesso universal à educação pré-escolar, primária e secundária de qualidade, assim como a expansão do acesso ao ensino superior e formação técnica profissional. O objetivo também enfatiza a necessidade de capacitar os professores, melhorar as instalações educacionais e promover ambientes de aprendizagem seguros e inclusivos. Alcançar a educação de qualidade é fundamental para o desenvolvimento humano, a redução da pobreza e a construção de sociedades mais sustentáveis.
