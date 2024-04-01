@@ -1,6 +1,6 @@
 <h1>
     <a href="https://www.unijorge.edu.br/">
-     <img align="center" width="40px" src="utils\logoUnijorge.png"></a>
+     <img align="center" width="40px" src="assets\image\logoUnijorge.png"></a>
     <span> <strong>Project for the Software Development Laboratory discipline</strong></span>
 </h1>
 
@@ -12,8 +12,8 @@ Crie uma plataforma de desenvolvimento web, sobre o quarto ODS da ONU (PT/BR)
 
 <h3>
 <span> <strong>Fourth UN SDG - Quality Education (EN/US)</strong></span>
-    <a href="https://www.unijorge.edu.br/">
-     <img align="center" width="40px" src="utils\FourthUNSDGBottomless.png"></a>
+    <a href="">
+     <img align="center" width="40px" src="assets\image\FourthUNSDGBottomless.png"></a>
 </h3>
 
 The Fourth United Nations Sustainable Development Goal (SDG) is "Quality Education." It aims to ensure inclusive, equitable, and quality education for all, promoting lifelong learning opportunities for everyone. This involves universal access to quality pre-primary, primary, and secondary education, as well as expanding access to higher education and vocational training. The goal also emphasizes the need to empower teachers, improve educational facilities, and promote safe and inclusive learning environments. Achieving quality education is crucial for human development, poverty reduction, and building more sustainable societies.
